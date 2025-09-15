@@ -1,1 +1,16 @@
-<p>{{product.name}}</p>
+<div class="h-100 d-flex align-items-center container-fluid">
+    <div class="row w-100">
+        <div class="col-6 d-flex align-items-center justify-content-center">
+            <img [src]="[product.source]" alt="">
+        </div>
+        <div class="col-6">
+            <h1>{{product.name}}</h1>
+            <h4 class="mb-3">₱{{product.price}}.00</h4>
+            <p class="mb-0"><span class="fw-bold">Location:</span> {{product.location}}</p>
+            <p class="mb-0"><span class="fw-bold">Condition:</span> {{product.condition}}</p>
+            <p class="mb-4"><span class="fw-bold">Stock:</span> {{product.quantity}}</p>
+            <p>{{product.description}}</p>
+            <button class="bg-dark text-light py-2 px-4">Add To Cart</button>
+        </div>
+    </div>
+</div>
