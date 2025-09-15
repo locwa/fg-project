@@ -1,5 +1,5 @@
-<div class="p-3 h-100">
-    <h1 class="fw-bold">All Products</h1>
+<div class="px-3 py-4 h-100">
+    <h1 class="fw-bold mb-4">All Products</h1>
     <div class="d-flex flex-wrap gap-5 h-100">
         <div *ngFor = "let product of products" class="h-50">
             <a [routerLink]="['/product', product.id]" class="text-decoration-none text-black">
