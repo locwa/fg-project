@@ -10,7 +10,7 @@
             <p class="mb-0"><span class="fw-bold">Condition:</span> {{product.condition}}</p>
             <p class="mb-4"><span class="fw-bold">Stock:</span> {{product.quantity}}</p>
             <p>{{product.description}}</p>
-            <button class="bg-dark text-light py-2 px-4">Add To Cart</button>
+            <button class="bg-dark text-light py-2 px-4" [disabled]="isProductInStock">Add To Cart</button>
         </div>
     </div>
 </div>

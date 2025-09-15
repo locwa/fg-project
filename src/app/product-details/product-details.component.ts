@@ -13,10 +13,12 @@ export class ProductDetailsComponent {
   productId : number | null = null;
   product : any = null;
   productList = productDetails;
+  isProductInStock : boolean | null = null
   constructor(private route: ActivatedRoute){}
 
   ngOnInit(){
     this.productId = Number(this.route.snapshot.paramMap.get('id'))
     this.product = this.productList.find(p => p.id === this.productId)
+    this.isProductInStock = this.product.quantity === 0 ? true : false;
   }
 }
