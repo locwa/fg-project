@@ -82,7 +82,7 @@
     "price": 9500,
     "location": "Robinsons Manila",
     "condition": "Good",
-    "image": "/images/oppo_reno5_jpg",
+    "image": "/images/oppo_reno_5.jpg",
     "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8vwPsb-E_Q9pNeSAZGidwGB59koQUo0_cA&s",
     "description": "A stylish midrange phone with strong cameras and smooth performance for social media and gaming.",
     "quantity": 3
@@ -214,7 +214,7 @@
     "price": 32000,
     "location": "SM Fairview",
     "condition": "Good",
-    "image": "/images/xbox_series_x.jpg",
+    "image": "/images/xbox_one_x.jpg",
     "source": "https://i5.walmartimages.com/seo/2020-New-Xbox-X-Gaming-Console-1TB-SSD-Black-X-Version-with-Disc-Drive_9f8c06f5-7953-426d-9b68-ab914839cef4.5f15be430800ce4d7c3bb5694d4ab798.jpeg",
     "description": "The most powerful Xbox yet, built for 4K gaming and smooth performance.",
     "quantity": 3
@@ -247,7 +247,7 @@
     "price": 12000,
     "location": "Power Mac Center Greenbelt",
     "condition": "Fair",
-    "image": "/images/apple_watch_5.jpg",
+    "image": "/images/apple_watch_series_5.jpg",
     "source": "https://i5.walmartimages.com/seo/Pre-Owned-Apple-Watch-Series-5-44mm-GPS-Aluminum-Space-Gray-Black-Sport-Band-Smartwatch_53343419-e55c-43c6-b6b4-79b774c87229.bdf679b620a63c4ca87c508d617ea370.jpeg",
     "description": "Stay connected and track fitness with the Apple Watch Series 5, featuring an always-on display.",
     "quantity": 7
@@ -258,7 +258,7 @@
     "price": 20000,
     "location": "SM Aura",
     "condition": "Good",
-    "image": "/images/apple_watch_7.jpg",
+    "image": "/images/apple_watch_series_7.jpg",
     "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJFrlbsTBdUgNMgwi4uEMjq6iir2ZRthXaw&s",
     "description": "The Apple Watch Series 7 has a larger screen and durable design, perfect for health tracking and daily use.",
     "quantity": 0
@@ -412,7 +412,7 @@
     "price": 38000,
     "location": "SM Taguig",
     "condition": "Like New",
-    "image": "/images/dji_mavic_air2.jpg",
+    "image": "/images/dji_mavic_air_2.jpg",
     "source": "https://d1rlzxa98cyc61.cloudfront.net/catalog/product/cache/1801c418208f9607a371e61f8d9184d9/1/7/176771_2020_6.jpg",
     "description": "Powerful yet portable drone with 4K video and advanced flight modes for creative shots.",
     "quantity": 0
